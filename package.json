@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@firebase/app": "^0.6.10",
+    "@firebase/app": "^0.9.1",
     "@firebase/auth": "^0.14.9",
     "@firebase/database": "^0.6.11",
     "@firebase/firestore": "^1.16.6",
